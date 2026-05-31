@@ -202,6 +202,8 @@ Enable management teams to make data-driven decisions based on real-time insight
 
 The dashboard provides a comprehensive view of sales performance, customer insights, payment analysis, and geographical sales distribution in a single interactive interface.
 
+https://github.com/YashikaPachori/mobile-sales-analysis-dashboard/blob/main/Dashboard_Overview.png
+
 ---
 
 
